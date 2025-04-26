@@ -43,7 +43,7 @@ source venv/bin/activate
 ### 4. Instalar las Dependencias
 Instala las bibliotecas necesarias (versiones compatibles):
 
-- pip install tensorflow==2.17.0 pillow==10.1.0 numpy==1.24.4 opencv-python==4.8.1.78
+- pip install tensorflow==2.17.0 pillow==10.1.0 numpy==1.24.4 opencv-python==3.9.13
 
 ---
 ### 5. Verificar TensorFlow y GPU (opcional)
